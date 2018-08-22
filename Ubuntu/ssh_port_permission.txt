@@ -1,0 +1,3 @@
+sudo nano /etc/rc.local
+just avobe last command(exit 0) add a line to start ssh (/etc/init.d/ssh start)
+try remove and reinstall ssh if it still sucks
