@@ -2,6 +2,10 @@ sudo service network-manager restart
 (와이파이 연결은 되는데(이미했을때_다른커널등에서) 네트워크가 이더넷이 먼저보이고 와이파이는 리스트가 안보일때)
 http://dveamer.github.io/ubuntu/HowToConnectWIFIOnCommandLine.html
 
+네트워크 매니져 클라이언트
+nmcli device wifi list
+nmcli device wifi connect 'SSID' password 'wifi-password'
+
 
 https://blog.npcode.com/2012/10/07/%EC%9A%B0%EB%B6%84%ED%88%AC%EC%97%90%EC%84%9C-%EC%99%80%EC%9D%B4%ED%8C%8C%EC%9D%B4%EA%B0%80-%EC%95%88%EB%90%A0%EB%95%8C/
 이것도 
