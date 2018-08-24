@@ -15,6 +15,9 @@ http://www.kwangsiklee.com/2017/07/%EC%9A%B0%EB%B6%84%ED%88%AC-16-04%EC%97%90%EC
 
 
 
-
 오버클럭등
 https://bitcointalk.org/index.php?topic=2432849.0
+
+Read&Wirte 설정
+mount -n -o remount, rw /
+http://sarghis.com/blog/1043/
