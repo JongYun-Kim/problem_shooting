@@ -1,0 +1,13 @@
+https://idiallo.com/blog/ubuntu-infinite-login-loop
+https://askubuntu.com/questions/862943/login-infinite-loop-after-installing-an-nvidia-driver
+
+CUDA안깔렸으면
+https://docs.nvidia.com/cuda/cuda-installation-guide-linux/index.html#pre-installation-actions
+(( https://developer.nvidia.com/cuda-downloads?target_os=Linux&target_arch=x86_64&target_distro=Ubuntu&target_version=1604&target_type=debnetwork  ))
+
+
+
+
+
+
+http://www.kwangsiklee.com/2017/07/%EC%9A%B0%EB%B6%84%ED%88%AC-16-04%EC%97%90%EC%84%9C-cuda-%EC%84%B1%EA%B3%B5%EC%A0%81%EC%9C%BC%EB%A1%9C-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0/
